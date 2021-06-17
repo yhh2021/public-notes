@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-17T14:59:35+08:00
+
+====== Bilibili ======
+Created Thursday 17 June 2021
+
+API: https://github.com/SocialSisterYi/bilibili-API-collect/
+BilibiliFansManager:
+* 【B站辅助工具】使用BilibiliFansManager批量导出你的粉丝！（大于千粉up请绕道）
+* https://www.bilibili.com/read/cv7100522
