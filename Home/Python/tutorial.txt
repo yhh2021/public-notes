@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-17T15:14:13+08:00
+
+====== 面向办公的Python ======
+Created Thursday 17 June 2021
+
+（不适用于专业计算机工作）
+
+* Python官方文档
+	* 在线查看：https://docs.python.org/zh-cn/3/
+	* 虽然可以在线查看，但是网速不佳，建议下载下来看。
+	* 下载：https://docs.python.org/zh-cn/3/archives/python-3.9.5-docs-html.zip
