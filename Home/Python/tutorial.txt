@@ -5,6 +5,9 @@ Creation-Date: 2021-06-17T15:14:13+08:00
 ====== 面向办公的Python ======
 Created Thursday 17 June 2021
 
+todo:
+* anaconda下载链接（tuna）
+
 （这篇文档不适用于专业计算机工作）
 
 === 文档1：Python官方文档 ===
@@ -37,8 +40,14 @@ Created Thursday 17 June 2021
 === Anaconda ===
 对于使用Windows平台非计算机专业人员来说，不建议使用Python的官方安装包，建议使用一个打包好的环境Anaconda。
 
-原因比较复杂：
-1. Python本身在Windows平台上容易被安装，但是它的一些
+原因是库的原因：
+Python本身在Windows平台上容易被安装，但是它的一些库不太容易。这是因为有许多库是用其他编程语言（如：C/C++/Fortran）编写的，需要它们自己的环境（编译）。
+
+因为很多专业计算机人员都不使用Windows操作系统，所有很多库都没有提供Windows平台上编译好的版本，或者发布时间比较晚。这种情况下，想要在Windows平台上使用最新版本的
+（待续）
 
 === 常见问题1：编码 ===
+（先不写）
+
+=== pip设置tuna源 ===
 （先不写）
