@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-06-17T15:42:15+08:00
+
+====== Zim-wiki export template ======
+Created Thursday 17 June 2021
+
+A Zim-wiki export template for a adaptive website
+On June 6, 2014
+By ecodiv.earth
+In ecodiv, Mobile tools, tools
+
+https://pvanb.wordpress.com/2014/06/06/a-zim-wiki-export-template-for-a-adaptive-website/
+
+I wrote before about Zim, a graphical text editor used to maintain a collection of wiki pages. Although mostly aimed at individual use, notebooks can also be shared as html files (and a few other formats) by exporting the notebook or individual pages as web pages, as explained here. And to give you an idea what you can get, see here an example of one of my notebooks.
+
+For one of my projects I wanted to create a small web-site with fact sheets that provide a short description of vegetation types in eastern Africa. These fact sheets go together with vegetation maps we have created for various countries in the region. The idea was to keep the fact sheets as notes in a Zim notebook, and use the export function to create a small web-site.
+
+A prerequisite was that these sheets should also be easy to view on tablets or mobile phones. The default templates are not really responsive, i.e., they do not adapt really well to different screen sizes, so I decided to create my own template. A good starting point is this wiki page. I opted for the easy way out and started with an existing template (the ZeroFiveEight template) and added a bit of jquery and jQueryMobile magic (or so it seems to my inexperienced eyes) to make the pages responsive.
+
+There are a few glitches to solve, and I am sure a lot can be improved in terms of efficiency etc (suggestions are of course very welcome), but for a first attempt…  well, it works for me. See here for an example, or some screenshots below.
+
+If you want to give it a try, the template is available for download (or here if you are using Zim 0.6) Make sure to download both the ecodiv.html file and the ecodiv folder. You probably want to adapt the html file to fit your needs. I added some notes in the file where you may want to make some changes.
