@@ -5,9 +5,40 @@ Creation-Date: 2021-06-17T15:14:13+08:00
 ====== 面向办公的Python ======
 Created Thursday 17 June 2021
 
-（不适用于专业计算机工作）
+（这篇文档不适用于专业计算机工作）
 
-* Python官方文档
-	* 在线查看：https://docs.python.org/zh-cn/3/
-	* 虽然可以在线查看，但是网速不佳，建议下载下来看。
-	* 下载：https://docs.python.org/zh-cn/3/archives/python-3.9.5-docs-html.zip
+=== 文档1：Python官方文档 ===
+
+在线查看：https://docs.python.org/zh-cn/3/
+虽然可以在线查看，但是网速不佳，建议下载下来看。
+下载：https://docs.python.org/zh-cn/3/archives/python-3.9.5-docs-html.zip
+使用方法：解压后用浏览器打开index.html
+
+文档分为几个部分，但是不是每个部分都有用。
+* 入门教程、Python 常用指引、常见问题：非常好的入门教程和参考资料
+* 标准库参考：参考用，写代码的时候一边写一边查
+* 安装和使用 Python：这个部分很好，但是如果使用Anaconda（见下）的话就不用看了。
+* Python <版本号> 有什么新变化？、安装 Python 模块、分发 Python 模块、扩展和嵌入、语言参考：这几部分面向计算机专业人员，不用看。
+=== 文档2：pandas官方文档 ===
+* https://www.pypandas.cn/
+* pandas是Python的一个库，专门用来处理表格，可以自动化Excel相关的工作。
+=== 文档3：beautifulsoup官方文档 ===
+（先不写）
+
+=== 文档4：Learn X in Y minutes/python ===
+这里可以快速过一遍Python的语言特性。
+* https://learnxinyminutes.com/docs/python/
+* 中文：https://learnxinyminutes.com/docs/zh-cn/python-cn/
+	* 可能英文的最新内容还没有被翻译，版本会比较老
+
+=== 一些其它的文档，写得不错但非必须 ===
+* w3school
+* 暂时想不起来别的
+=== Anaconda ===
+对于使用Windows平台非计算机专业人员来说，不建议使用Python的官方安装包，建议使用一个打包好的环境Anaconda。
+
+原因比较复杂：
+1. Python本身在Windows平台上容易被安装，但是它的一些
+
+=== 常见问题1：编码 ===
+（先不写）
