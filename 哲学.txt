@@ -2,6 +2,6 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2021-06-18T14:01:31+08:00
 
-====== Philosophy ======
+====== 哲学 ======
 Created Friday 18 June 2021
 

@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.6
 Creation-Date: 2021-06-17T14:59:11+08:00
 
-====== fav list export ======
+====== 收藏夹导出 ======
 Created Thursday 17 June 2021
 
 打开一个收藏列表 e.g. https://space.bilibili.com/192167261/favlist?fid=62499761
