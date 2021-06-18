@@ -6,4 +6,8 @@ Creation-Date: 2021-06-17T15:42:06+08:00
 Created Thursday 17 June 2021
 
 === 为什么推荐使用Ubuntu，而不是OpenBSD等？ ===
-因为Ubuntu支持最好。很多软件都有编译好的二进制包，很多问题都已经有解答，很多坑都已经被
+因为Ubuntu支持最好。很多软件都有编译好的二进制包，很多问题都已经有解答，很多坑都已经被踩过。镜像源多，下载快。
+
+有些项目只有Ubuntu支持，如Playwright：
+	https://playwright.dev/python/docs/intro/#system-requirements
+	Only Ubuntu 18.04 and Ubuntu 20.04 are officially supported.
